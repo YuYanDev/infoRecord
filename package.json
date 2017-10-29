@@ -1,0 +1,22 @@
+{
+  "name": "info-record",
+  "version": "1.0.0",
+  "author": "SakaraHiroya",
+  "license": "MIT",
+  "description": "A small batch logger for Node.js",
+  "main": "src/info-record.js",
+  "dependencies": {
+    "moment": "^2.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakaraHiroya/infoRecord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SakaraHiroya/infoRecord/issues"
+  },
+  "keywords": [
+    "logger",
+    "Node.js"
+  ]
+}
