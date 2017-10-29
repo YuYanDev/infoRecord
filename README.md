@@ -2,7 +2,7 @@
 A small batch logger for Node.js
 
 ---
-[中文文档](blob/master/README_zh.md)
+[中文文档](README_zh.md)
 
 ---
 ### What the software is doing?
